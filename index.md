@@ -13,3 +13,9 @@
 >nalanyinyun@outlook.com<br>
 >nalanyinyun@foxmail.com<br>
 >[Bilibili](https://space.bilibili.com/384920476 "来点萝莉!")
+
+###About Me  
+嗨 你好！  
+我是纳兰音韵  
+我们制作了Windows10和Windows8.1的精简版，虽然没有什么技术含量，但依旧有了将近6w播放量的总和，这带给我们巨大的影响  
+现在，你可以直接在浏览器上搜索 纳兰音韵 你可以看到推荐搜索中已经有了我的名字，没错，我的视频和bilibili主页被搜索引擎抓取了，相信我，这绝对是巨大的成功  
