@@ -2,11 +2,13 @@
 
 你可以在这里下载 Windows10 Alkaid/Windows8.1 Cappuccino.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Us
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+你可以在这里找到我 1141552213
+当然，如果你并不愿意加入我们的群聊，我们提供了其他的联系方式<br>
+nalanyinyun@outlook.com<br>
+nalanyinyun@foxmail.com<br>
+[Bilibili](https://space.bilibili.com/384920476 "Google")
 
 ```markdown
 Syntax highlighted code block
