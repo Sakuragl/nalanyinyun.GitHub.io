@@ -4,16 +4,20 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=1822700915&auto=0&height=66"></iframe>  
 
 ### 拾穗
-<script>
-  fetch('https://v1.hitokoto.cn')
-    .then(response => response.json())
-    .then(data => {
-      const hitokoto = document.getElementById('hitokoto_text')
-      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-      hitokoto.innerText = data.hitokoto
-    })
-    .catch(console.error)
-</script>  
+
+<div class="hitokoto" style="
+    text-align: center;
+    color: grey;
+"><script type='text/javascript'>
+$.get("https://v1.hitokoto.cn/",function(data,status){
+    if (status == 'success'){
+        $('.hitokoto').text(data.hitokoto+"By:"+data.from);
+    }else{
+        $('.hitokoto').text('获取出错！');
+    }
+});
+</script>
+</div>  
 
 ### Download
 你可以在这里下载<br>
