@@ -5,17 +5,16 @@
 
 ### 拾穗
 
-<div class="hitokoto" style="overflow:visible">
-    text-align: center;
-    color: grey;
-"><script type='text/javascript'>
-$.get("https://v1.hitokoto.cn/",function(data,status){
-    if (status == 'success'){
-        $('.hitokoto').text(data.hitokoto+"By:"+data.from);
-    }else{
-        $('.hitokoto').text('获取出错！');
-    }
-});
+<div style="overflow:visible">
+<script>
+  fetch('https://v1.hitokoto.cn')
+    .then(response => response.json())
+    .then(data => {
+      const hitokoto = document.getElementById('hitokoto_text')
+      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+      hitokoto.innerText = data.hitokoto
+    })
+    .catch(console.error)
 </script>
 </div>  
 
