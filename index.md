@@ -46,7 +46,7 @@
     L2Dwidget.init({
         "model": {
 　　　　　　　//jsonpath控制显示那个小萝莉模型，下面这个就是我觉得最可爱的小萝莉模型
-            jsonPath: "https://unpkg.com/live2d-widget-model-z16@1.0.5/assets/z16.model.json",
+            jsonPath: "nalanyinyun.GitHub.io/texture_00.png",
             "scale": 1
         },
         "display": {
