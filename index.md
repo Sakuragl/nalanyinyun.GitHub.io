@@ -51,13 +51,13 @@
         },
         "display": {
             "position": "right", //看板娘的表现位置
-            "width": 150,  //小萝莉的宽度
-            "height": 300, //小萝莉的高度
+            "width": 150,  //宽度
+            "height": 250, //高度
             "hOffset": 0,
             "vOffset": -20
         },
         "mobile": {
-            "show": true,
+            "show": false,
             "scale": 0.5
         },
         "react": {
