@@ -3,8 +3,17 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=529814379&auto=0&height=66"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=1822700915&auto=0&height=66"></iframe>  
 
-### 拾穗<br>
-<script src="https://v1.hitokoto.cn/?encode=a&text&select=%23hitokoto" defer></script><br>
+### 拾穗
+<script>
+  fetch('https://v1.hitokoto.cn')
+    .then(response => response.json())
+    .then(data => {
+      const hitokoto = document.getElementById('hitokoto_text')
+      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+      hitokoto.innerText = data.hitokoto
+    })
+    .catch(console.error)
+</script>  
 
 ### Download
 你可以在这里下载<br>
