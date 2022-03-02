@@ -4,7 +4,7 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=1822700915&auto=0&height=66"></iframe>  
 
 ### 拾穗  
-
+<span id="jinrishici-sentence"></span>
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
 ### 你可以在这里下载<br>
