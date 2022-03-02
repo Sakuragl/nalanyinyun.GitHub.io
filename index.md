@@ -3,14 +3,11 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=529814379&auto=0&height=66"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=1822700915&auto=0&height=66"></iframe>  
 
-### 拾穗
+### 拾穗  
 
-<div class="clear">
-<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
-</div>  
+![今日诗词](https://v2.jinrishici.com/one.svg)  
 
-### Download
-你可以在这里下载<br>
+### 你可以在这里下载<br>
 [Windows10 Alkaid](https://cloud.189.cn/web/share?code=nmuIjayEZfM3 "涩涩 涩涩!")<br>
 [Windows8.1 Cappuccino](https://dl.fuyu.ml/Ali/System/Windows/Lite/Windows8.1%20Cappuccino.iso "小萝莉来找我!")<br>
 
