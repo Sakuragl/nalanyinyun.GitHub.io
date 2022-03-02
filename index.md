@@ -5,7 +5,7 @@
 
 ### 拾穗  
 
-![今日诗词](https://v2.jinrishici.com/one.svg)  
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
 ### 你可以在这里下载<br>
 [Windows10 Alkaid](https://cloud.189.cn/web/share?code=nmuIjayEZfM3 "涩涩 涩涩!")<br>
