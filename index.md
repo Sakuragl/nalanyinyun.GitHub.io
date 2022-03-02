@@ -5,7 +5,7 @@
 
 ### 拾穗
 
-<div class="hitokoto" style="
+<div class="hitokoto" style="overflow:visible">
     text-align: center;
     color: grey;
 "><script type='text/javascript'>
