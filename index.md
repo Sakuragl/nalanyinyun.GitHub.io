@@ -7,7 +7,7 @@
 <span id="jinrishici-sentence"></span>
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
-### 你可以在这里下载<br>
+### Download<br>
 [Windows10 Alkaid](https://cloud.189.cn/web/share?code=nmuIjayEZfM3 "涩涩 涩涩!")<br>
 [Windows8.1 Cappuccino](https://dl.fuyu.ml/Ali/System/Windows/Lite/Windows8.1%20Cappuccino.iso "小萝莉来找我!")<br>
 
