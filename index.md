@@ -15,10 +15,15 @@
 <iframe src="//player.bilibili.com/player.html?aid=296463240&bvid=BV1sF411n7va&cid=506523758&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <iframe src="//player.bilibili.com/player.html?aid=509249820&bvid=BV1vu411X7gX&cid=514645592&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>
 ### About Us
-你可以在这里找到我 1141552213 <br>
+你可以在这里找到我<br>
 当然，如果你并不愿意加入我们的群聊，我们提供了其他的联系方式<br>
 >[Bilibili](https://space.bilibili.com/384920476 "来点萝莉!")<br>
->nalanyinyun@nalanyinyun.ml（email）
+>nalanyinyun@nalanyinyun.ml（推荐）<br>
+>1141552213（不推荐）<br>
+
+### 声明
+在你加入群聊之前，请做好挨骂和被管理/群主踢出的准备  
+在你发言时，我们默认你已阅读和同意本群声明，我们经常会更新声明，请花一点时间来阅读现在和以后更新的条目
 
 ### About Me  
 嗨 你好！  
