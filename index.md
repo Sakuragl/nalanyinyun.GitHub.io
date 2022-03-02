@@ -5,7 +5,7 @@
 
 ### 拾穗
 
-<div class="clear" style="overflow:visible">
+<div class="clear">
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 </div>  
 
