@@ -23,6 +23,7 @@
 >[BiliBili](https://space.bilibili.com/384920476 "来点萝莉!")<br>
 >nalanyinyun@nalanyinyun.ml（推荐）<br>
 >1141552213（不推荐）<br>
+>[Telegram](https://t.me/+xPPMIwbD3KM1MTll "呜呜，萝莉")<br>
 
 ### 声明
 在你加入群聊之前，请做好挨骂和被管理/群主踢出的准备  
