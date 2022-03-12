@@ -8,7 +8,7 @@
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
 ### Download<br>
-[Windows10 Alkaid](https://cloud.189.cn/web/share?code=nmuIjayEZfM3 "涩涩 涩涩!")<br>
+[Windows10 Alkaid](https://download.fuibafuyu.top/Ali/System/Windows/Lite/Windows10%20Alkaid%20by%20nalanyinyun.iso "涩涩 涩涩!")<br>
 [Windows8.1 Cappuccino](https://dl.fuyu.ml/Ali/System/Windows/Lite/Windows8.1%20Cappuccino.iso "小萝莉来找我!")<br>
 
 ### About Customization<br>
