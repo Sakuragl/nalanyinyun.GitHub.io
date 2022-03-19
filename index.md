@@ -8,8 +8,10 @@
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
 ### Download<br>
-[Windows10 Alkaid](https://download.fuibafuyu.top/Ali/System/Windows/Lite/Windows10%20Alkaid%20by%20nalanyinyun.iso "涩涩 涩涩!")<br>
-[Windows8.1 Cappuccino](https://dl.fuyu.ml/Ali/System/Windows/Lite/Windows8.1%20Cappuccino.iso "小萝莉来找我!")<br>
+[Windows10 Alkaid 阿里云分流](https://download.fuibafuyu.top/Ali/System/Windows/Lite/Windows10%20Alkaid%20by%20nalanyinyun.iso "涩涩 涩涩!")<br>
+[Windows10 Alkaid 和彩云分流](https://download1.fuibafuyu.top/d/139/System/Windows/Lite/Windows10%20Alkaid%20by%20nalanyinyun.iso "让我摸摸奶子")<br>
+[Windows8.1 Cappuccino 阿里云分流](https://dl.fuyu.ml/Ali/System/Windows/Lite/Windows8.1%20Cappuccino.iso "小萝莉来找我!")<br>
+[Windows8.1 Cappuccino 和彩云分流](https://download1.fuibafuyu.top/d/139/System/Windows/Lite/Windows8.1%20Cappuccino.iso "没有骚话了")<br>
 
 ### About Customization<br>
 **没有钱我很难给你办事啊**<br>
