@@ -40,6 +40,8 @@
 
 ### 友情链接  
 [冬優ちゃん](https://www.fuibafuyu.top/ "小萝莉，点击调戏" )  
+[下载站](https://www.download.nalanyinyun.ml/)  
+[瑟瑟站点](https://www.hentai.nalanyinyun.ml/ "硬核瑟瑟" )
 
 
 
@@ -74,4 +76,4 @@
 </script>  
 ### 杂七杂八的
 旷野文社(Wilderness)  
-雨幕之中(Rain Curtain)
+~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group
