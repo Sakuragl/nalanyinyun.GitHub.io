@@ -42,8 +42,7 @@
 
 ### 友情链接  
 [冬優ちゃん](https://www.fuibafuyu.top/ "小萝莉，点击调戏" )  
-[下载站](https://download.nalanyinyun.ml/)  
-[瑟瑟站点](https://hentai.nalanyinyun.ml/ "硬核瑟瑟" )
+[下载站](https://download.nalanyinyun.ml/)    
 
 
 
