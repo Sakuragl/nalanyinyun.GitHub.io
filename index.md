@@ -43,7 +43,7 @@
 ### 友情链接  
 [冬優ちゃん](https://www.fuibafuyu.top/ "小萝莉，点击调戏" )  
 [下载站](https://download.nalanyinyun.ml/)  
-[Ding Hierarch](https://djz.plus/)
+[丁教主Dingの小站](https://djz.plus/)
 ### 笑话
 “我手机不开机了咋整啊”  
 “什么表现，怎么搞的，你最近干什么了”  
