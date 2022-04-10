@@ -84,4 +84,7 @@
 </script>  
 ### 杂七杂八的
 旷野文社(Wilderness)  
-~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group
+~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
+
+<div class="bingwidget" data-type="covid19_map" data-market="en-us" data-language="en-us"></div>
+<script src="//www.bing.com/widget/bootstrap.answer.js" async=""></script>
