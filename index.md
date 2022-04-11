@@ -53,7 +53,7 @@
 
 
 
-<div align="center">
+<div>
   <img src="https://api.xhofe.top/ip/?line1=Welcome！&amp;line2=nalanyinyun.ml" />
 </div>  
 
