@@ -4,8 +4,8 @@
 # 操你妈BiliBili
 我他妈峰值码率才9000kbps，你压制我干什么，干什么！！！！  
 ### 整点音乐！
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=360 height=86 src="///music.163.com/outchain/player?type=2&auto=1&height=66"></iframe>  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=360 height=86 src="//music.163.com/outchain/player?type=2&id=28987940&id=29769513&auto=0&height=66"></iframe>  
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1345058134&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28018269&auto=1&height=66"></iframe>  
 
 ### 拾穗  
 <span id="jinrishici-sentence"></span>
