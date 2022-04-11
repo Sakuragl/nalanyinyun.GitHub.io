@@ -85,4 +85,6 @@
 ### 杂七杂八的
 旷野文社(Wilderness)  
 ~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
+
+### COVID-19 新型冠状病毒 信息统计
 <iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>
