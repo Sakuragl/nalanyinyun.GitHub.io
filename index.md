@@ -88,4 +88,5 @@
 ~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
 
 ### COVID-19 新型冠状病毒 信息统计
-<iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>
+<iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>  
+本站已安全运行了<b><strong><script language = "JavaScript"type = "text/javascript" >var urodz = new Date("02/24/2022");var now = new Date();var ile = now.getTime() - urodz.getTime();var dni = Math.floor(ile / (1000 * 60 * 60 * 24));document.write( + dni)</script></strong></b>天
