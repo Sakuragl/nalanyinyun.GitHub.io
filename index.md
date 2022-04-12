@@ -5,7 +5,7 @@
 我他妈峰值码率才9000kbps，你压制我干什么，干什么！！！！  
 ### 整点音乐！
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1345058134&auto=1&height=66"></iframe>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28018269&auto=1&height=66"></iframe>  
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28018269&auto=0&height=66"></iframe>  
 
 ### 拾穗  
 <span id="jinrishici-sentence"></span>
@@ -89,4 +89,3 @@
 
 ### COVID-19 新型冠状病毒 信息统计
 <iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>  
-本站已安全运行了<b><strong><script language = "JavaScript"type = "text/javascript" >var urodz = new Date("02/24/2022");var now = new Date();var ile = now.getTime() - urodz.getTime();var dni = Math.floor(ile / (1000 * 60 * 60 * 24));document.write( + dni)</script></strong></b>天
