@@ -1,7 +1,6 @@
 ## Welcome to Nalanyinyun's Library  
 # 操你妈BiliBili  
-傻逼审核看不顺眼就把我稿件退了，限流恶心你妈谁呢
-# 操你妈BiliBili
+傻逼审核看不顺眼就把我稿件退了，限流恶心你妈谁呢  
 我他妈峰值码率才9000kbps，你压制我干什么，干什么！！！！  
 ### 整点音乐！
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1345058134&auto=1&height=66"></iframe>
@@ -62,12 +61,12 @@
 <script>
     L2Dwidget.init({
         "model": {
-　　　　　　　//jsonpath控制显示那个小萝莉模型，下面这个就是我觉得最可爱的小萝莉模型
+　　　　　　　//jsonpath控制模型，这个是z16，蛮可爱的
             jsonPath: "https://unpkg.com/live2d-widget-model-z16@1.0.5/assets/z16.model.json",
             "scale": 1
         },
         "display": {
-            "position": "right", //看板娘的表现位置
+            "position": "left", //看板娘的表现位置
             "width": 150,  //宽度
             "height": 250, //高度
             "hOffset": 0,
