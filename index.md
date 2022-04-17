@@ -13,9 +13,12 @@
 ### Download<br>
 [Windows10 Alkaid 阿里云分流](https://download.fuibafuyu.top/Ali/System/Windows/Lite/Windows10%20Alkaid%20by%20nalanyinyun.iso "涩涩 涩涩!")<br>
 [Windows10 Alkaid 和彩云分流](https://download1.fuibafuyu.top/d/139/System/Windows/Lite/Windows10%20Alkaid%20by%20nalanyinyun.iso "让我摸摸奶子")<br>
+[Windows10 Alkaid 123分流](https://download1.fuibafuyu.top/d/123/System/Windows/Lite/Windows10%20Alkaid%20by%20nalanyinyun.iso)  
+[Windows10 Alkaid Onedrive分流](https://download.fuibafuyu.top/OD/System/Windows/Lite/Windows10%20Alkaid%20by%20nalanyinyun.iso)  
 [Windows8.1 Cappuccino 阿里云分流](https://dl.fuyu.ml/Ali/System/Windows/Lite/Windows8.1%20Cappuccino.iso "小萝莉来找我!")<br>
 [Windows8.1 Cappuccino 和彩云分流](https://download1.fuibafuyu.top/d/139/System/Windows/Lite/Windows8.1%20Cappuccino.iso "没有骚话了")<br>
-
+[Windows8.1 Cappuccino 123分流](https://download1.fuibafuyu.top/d/123/System/Windows/Lite/Windows8.1%20Cappuccino.iso "为啥冬优整一堆分流")  
+[Windows8.1 Cappuccino Onedrive分流](https://download.fuibafuyu.top/OD/System/Windows/Lite/Windows8.1%20Cappuccino.iso)
 ### About Customization<br>
 **没有钱我很难给你办事啊**<br>
 
