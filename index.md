@@ -89,6 +89,10 @@
 ### 杂七杂八的
 旷野文社(Wilderness)  
 ~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
+### 关于博客
+博客还在持续构建中，因为调试需要暂停了子域名解析（文章全寄了，会Hugo的大佬务必联系我）    
+博客基于Hugo构造，托管于Github Pages，[这是仓库地址](https://github.com/naranyinyun/nalanyinyun.GitHub.io)  
+我会经常更新内容，我们正在考虑是否搭建RSS订阅服务  
 
 ### COVID-19 新型冠状病毒 信息统计
 <iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>   
