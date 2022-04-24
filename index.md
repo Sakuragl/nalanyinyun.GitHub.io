@@ -1,6 +1,6 @@
 ## Welcome to Nalanyinyun's Library  
-# 操你妈BiliBili  
-傻逼审核看不顺眼就把我稿件退了，限流恶心你妈谁呢  
+# 你好BiliBili  
+聪明审核看不顺眼就把我稿件退了，限流恶心谁呢  
 我他妈峰值码率才9000kbps，你压制我干什么，干什么！！！！  
 ### 整点音乐！
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1345058134&auto=1&height=66"></iframe>
@@ -90,9 +90,11 @@
 旷野文社(Wilderness)  
 ~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
 ### 关于博客
-博客还在持续构建中，因为调试需要暂停了子域名解析（文章全寄了，会Hugo的大佬务必联系我）    
+~~博客还在持续构建中，因为调试需要暂停了子域名解析（文章全寄了，会Hugo的大佬务必联系我）    
 博客基于Hugo构造，托管于Github Pages，[这是仓库地址](https://github.com/naranyinyun-sister/naranyinyun-sister.github.io)  
-我会经常更新内容，我们正在考虑是否搭建RSS订阅服务  
+我会经常更新内容，我们正在考虑是否搭建RSS订阅服务~~  
+基于Hugo的博客基本完工，恢复了子域名解析  
+至少最近不会搭建RSS订阅服务
 
 ### COVID-19 新型冠状病毒 信息统计
 <iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>   
