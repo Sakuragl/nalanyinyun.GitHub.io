@@ -91,7 +91,7 @@
 ~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
 ### 关于博客
 ~~博客还在持续构建中，因为调试需要暂停了子域名解析（文章全寄了，会Hugo的大佬务必联系我）    
-博客基于Hugo构造，托管于Github Pages，[这是仓库地址](https://github.com/naranyinyun-sister/naranyinyun-sister.github.io)  
+博客基于Hugo构造，托管于Github Pages，[这是仓库地址](https://github.com/naranyinyun-sister/Blog.Nalanyinyun.GitHub.io)  
 我会经常更新内容，我们正在考虑是否搭建RSS订阅服务~~  
 基于Hugo的博客基本(~~一大堆功能都是废的~~)完工，恢复了子域名解析 没研究明白主题  
 至少最近不会搭建RSS订阅服务
