@@ -11,8 +11,8 @@
         a.btn::before {
             background: url(https://s1.328888.xyz/2022/04/19/r5i64.jpg) no-repeat center / cover fixed;
         }
-    
- header {
+
+        header {
             position: relative;
         }
 
@@ -23,10 +23,27 @@
             right: 0;
             bottom: 0;
             left: 0;
-            filter: blur(5px);
+            filter: blur(8px);
             z-index: -1;
         }
 
+        a.btn {
+            position: relative;
+            overflow: hidden;
+
+        }
+
+        a.btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            filter: blur(16px);
+            z-index: -1;
+            margin: -64px;
+        }
     </style>
 
 {% seo %}
