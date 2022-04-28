@@ -26,24 +26,6 @@
             filter: blur(8px);
             z-index: -1;
         }
-
-        a.btn {
-            position: relative;
-            overflow: hidden;
-
-        }
-
-        a.btn::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            right: 0;
-            bottom: 0;
-            left: 0;
-            filter: blur(16px);
-            z-index: -1;
-            margin: -64px;
-        }
     </style>
 
 {% seo %}
@@ -57,11 +39,7 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-  <header class="page-header" role="banner">
-        <h1 class="project-name">Welcome to Nalanyinyun’s Library</h1>
-        <h2 class="project-tagline"></h2>
-        <a href="https://nalanyinyun.ml/" class="btn">Reload Site</a>
-    </header>
+  
     <main id="content" class="main-content" role="main">
       {{ content }}
       <footer class="site-footer">
