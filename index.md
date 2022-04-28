@@ -1,7 +1,6 @@
 ## Welcome to Nalanyinyun's Library  
-# 你好BiliBili  
-聪明审核看不顺眼就把我稿件退了，限流恶心谁呢  
-我他妈峰值码率才9000kbps，你压制我干什么，干什么！！！！  
+# 操你妈
+Fork我仓库那位，我操你妈
 ### 整点音乐！
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1345058134&auto=1&height=66"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28018269&auto=0&height=66"></iframe>  
