@@ -107,7 +107,7 @@ a {
 
 .page-header {
   color: $header-heading-color;
-  text-align: center 
+  text-align: center {
 
   @include large {
     padding: 5rem 6rem;
