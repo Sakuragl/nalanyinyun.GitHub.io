@@ -1,8 +1,4 @@
 ## Welcome to Nalanyinyun's Library  
-# 操你妈
-Fork我仓库那位，我操你妈  
-我今天说清楚了，Fork可以，联系方式都不改，自己GIthub联系不上的，我操你妈  
-千万别让我查出来你到底是谁  
 ### 整点音乐！
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1870469768&auto=1&height=66"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=499793453&auto=0&height=66"></iframe>  
@@ -94,8 +90,7 @@ Fork我仓库那位，我操你妈
 ~~博客还在持续构建中，因为调试需要暂停了子域名解析（文章全寄了，会Hugo的大佬务必联系我）    
 博客基于Hugo构造，托管于Github Pages，[这是仓库地址](https://github.com/naranyinyun-sister/Blog.Nalanyinyun.GitHub.io)  
 我会经常更新内容，我们正在考虑是否搭建RSS订阅服务~~  
-基于Hugo的博客基本(~~一大堆功能都是废的~~)完工，恢复了子域名解析 没研究明白主题  
-至少最近不会搭建RSS订阅服务
+基于Hugo的博客基本(~~真的完工了，又换惹主题~~）完工，可以正常访问
 
 ### COVID-19 新型冠状病毒 信息统计
 <iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>   
