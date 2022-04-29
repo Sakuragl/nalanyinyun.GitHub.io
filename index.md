@@ -88,7 +88,7 @@ Fork我仓库那位，我操你妈
     });
 </script>  
 ### 杂七杂八的
-旷野文社(Wilderness)  
+旷野文社(Wilderness Literary Society)  
 ~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
 ### 关于博客
 ~~博客还在持续构建中，因为调试需要暂停了子域名解析（文章全寄了，会Hugo的大佬务必联系我）    
