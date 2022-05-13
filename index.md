@@ -1,7 +1,7 @@
 ## Welcome to Nalanyinyun's Library  
 ### 整点音乐！
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1870469768&auto=1&height=66"></iframe>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=499793453&auto=0&height=66"></iframe>  
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26089096&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26089137&auto=0&height=66"></iframe>  
 
 ### 拾穗  
 <span id="jinrishici-sentence"></span>
@@ -46,7 +46,7 @@
 [冬優ちゃん](https://www.fuibafuyu.top/ "小萝莉，点击调戏" )  
 [下载站](https://download.nalanyinyun.ml/)  
 [丁教主Dingの小站](https://djz.plus/)  
-[Nalan's Blog](https://blog.nalanyinyun.ml)
+[Nalanyinyun's Blog](https://blog.nalanyinyun.ml)
 ### 笑话
 “我手机不开机了咋整啊”  
 “什么表现，怎么搞的，你最近干什么了”  
