@@ -30,7 +30,7 @@
 当然，如果你并不愿意加入我们的群聊，我们提供了其他的联系方式<br>
 >[BiliBili](https://space.bilibili.com/384920476 "来点萝莉!")<br>
 >nalanyinyun@nalanyinyun.ml（推荐）<br>
->1141552213<br>
+>480388122<br>
 >[Telegram](https://t.me/+xPPMIwbD3KM1MTll "呜呜，萝莉")<br>
 
 ### 声明
