@@ -1,9 +1,8 @@
 ## Welcome to Nalanyinyun's Library  
 ### 整点音乐！
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26089096&auto=1&height=66"></iframe>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26089137&auto=0&height=66"></iframe>  
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1366519117&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1317507921&auto=0&height=66"></iframe>  
 本站及子站均已启用自动播放（Auto Play），请允许nalanyinyun.ml和blog.nalanyinyun.ml播放音乐  
-我会经常挑选音乐
 
 ### 拾穗  
 <span id="jinrishici-sentence"></span>
