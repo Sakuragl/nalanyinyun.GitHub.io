@@ -45,7 +45,7 @@
 
 ### 友情链接  
 [冬優ちゃん](https://www.fuibafuyu.top/ "小萝莉，点击调戏" )  
-[下载站](https://download.nalanyinyun.ml/)  
+[下载站](https://mirro.nalanyinyun.ml/)  
 [丁教主Dingの小站](https://djz.plus/)  
 [Nalanyinyun's Blog](https://blog.nalanyinyun.ml)
 ### 笑话
