@@ -90,7 +90,7 @@
 ### 关于博客
 我们即将切换博客，目前正在迁移原博客内容并将其译为英文，原博客会继续保留，但不再更新  
 新博客，更快，更美观，更强大
-这是[传送门](https://newblog.nalanyinyun.ml/)
+这是[传送门](https://new.blog.nalanyinyun.ml/)
 
 ### COVID-19 新型冠状病毒 信息统计
 <iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>   
