@@ -88,10 +88,9 @@
 旷野文社(Wilderness Literary Society)  
 ~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
 ### 关于博客
-~~博客还在持续构建中，因为调试需要暂停了子域名解析（文章全寄了，会Hugo的大佬务必联系我）    
-博客基于Hugo构造，托管于Github Pages，[这是仓库地址](https://github.com/naranyinyun-sister/Blog.Nalanyinyun.GitHub.io)  
-我会经常更新内容，我们正在考虑是否搭建RSS订阅服务~~  
-基于Hugo的博客基本(~~真的完工了，又换惹主题~~）完工，可以正常访问
+我们即将切换博客，目前正在迁移原博客内容并将其译为英文，原博客会继续保留，但不再更新  
+新博客，更快，更美观，更强大
+这是[传送门](https://newblog.nalanyinyun.ml/)
 
 ### COVID-19 新型冠状病毒 信息统计
 <iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=/TaiWan&mt=Map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>   
