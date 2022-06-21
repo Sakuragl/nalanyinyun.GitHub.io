@@ -88,8 +88,9 @@
 旷野文社(Wilderness Literary Society)  
 ~~雨幕之中(Rain Curtain)~~ Rain Curtain FunSub Group  
 ### 关于博客
-我们即将切换博客，目前正在迁移原博客内容并将其译为英文，原博客会继续保留，但不再更新  
-新博客，更快，更美观，更强大
+~~我们即将切换博客，目前正在迁移原博客内容并将其译为英文，原博客会继续保留，但不再更新  
+新博客，更快，更美观，更强大~~
+已经迁移完毕，这是原来的[博客](https://old.blog.nalanyinyun.ml/)
 这是[传送门](https://new.blog.nalanyinyun.ml/)
 
 ### COVID-19 新型冠状病毒 信息统计
